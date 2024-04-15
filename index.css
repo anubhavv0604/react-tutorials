@@ -1,0 +1,15 @@
+#parent{
+    color: red;
+ 
+    background-color: aqua;
+    #child{
+        background-color: chartreuse;
+    }
+    #child2{
+        background-color: black;
+        
+    }
+    #child3{
+        background-color: blue;
+    }
+}
